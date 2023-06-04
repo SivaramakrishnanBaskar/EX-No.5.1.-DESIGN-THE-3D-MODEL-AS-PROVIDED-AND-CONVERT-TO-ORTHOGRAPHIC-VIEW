@@ -17,7 +17,7 @@ Open Fusion 360 and select file and click new file
 
 ### STEP-2:
 Select sketch option and choose create sketch
-
+ 
 ### STEP-3: 
 1. Create the sketch using circle, line, trim operations as shown in figure
 2. Apply finish sketch 
